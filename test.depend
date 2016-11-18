@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1479469192 source:c:\temp\delete\prog\test\hello.cpp
+	"linked_list.h"
+	"pixel.h"
+	<iostream>
+	<fstream>
+
+1479469192 source:c:\temp\delete\prog\test\linked_list.cpp
+	"linked_list.h"
+
+1479469192 c:\temp\delete\prog\test\linked_list.h
+	<iostream>
+	<fstream>
+
+1479466821 c:\temp\delete\prog\test\pixel.h
+	<iostream>
+
+1479463839 source:c:\temp\delete\prog\test\container.cpp
+
