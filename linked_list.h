@@ -15,7 +15,7 @@ linked_list* init();
 void print(linked_list*root, void (*f)(void*));
 void add(linked_list* l, int index, void* data);
 void* remove(linked_list* l,int index);
-
+int count(linked_list*);
 //count
 //add
 //delete_one

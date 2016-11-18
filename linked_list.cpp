@@ -55,4 +55,15 @@ void* remove(linked_list* l,int index)
     }
 }
 
+int count(linked_list* l1)
+{
+    int c=0;
+    while(l1->next !=NULL)
+    {
+        c=c++;
+        l1=l1->next;
+    }
+    return c;
+}
+
 
